@@ -5,7 +5,8 @@
 // I am sure this code could be simplified send me a copy if you refractor it.
 // rupert@rupert.id.au
 // code on github at: https://github.com/rupertrussell/original_mandelbrot
-// artwork on redbubble at: 
+// artwork on redbubble at: https://www.redbubble.com/shop/ap/55183943
+// Original at: https://en.wikipedia.org/wiki/Mandelbrot_set#/media/File:Mandel.png
 
 
 int[] row = new int[30];
